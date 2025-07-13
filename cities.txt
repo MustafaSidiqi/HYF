@@ -5,8 +5,18 @@ Stockholm
 Berlin 
 
 2024
+<<<<<<< HEAD
 California
 china
 tokyo
 helsinki
 
+=======
+London 
+New York 
+Los Angles 
+Madrid 
+Barcelona
+Istanbul 
+Oslo
+>>>>>>> 0dd82082fb69fbba21f24fdc4dc0b24d417a71f9
