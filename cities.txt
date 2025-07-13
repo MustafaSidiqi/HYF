@@ -7,4 +7,5 @@ Berlin
 2024
 Madrid 
 Barcelona
-
+Istanbul 
+Oslo
