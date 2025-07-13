@@ -20,3 +20,4 @@ Barcelona
 Istanbul 
 Oslo
 >>>>>>>>> Temporary merge branch 2
+hi
