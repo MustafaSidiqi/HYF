@@ -10,3 +10,10 @@ china
 tokyo
 helsinki
 madrid
+London 
+New York 
+Los Angles 
+Madrid 
+Barcelona
+Istanbul 
+Oslo
