@@ -8,3 +8,7 @@ Berlin
 London 
 New York 
 Los Angles 
+Madrid 
+Barcelona
+Istanbul 
+Oslo
